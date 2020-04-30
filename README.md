@@ -11,7 +11,7 @@ Step 4:Open the terminal type the command **sudo cp -r path Trackpad.prefPane in
 
 For example: **sudo cp -r /Users/nguyenducde/Desktop/Trackpad.prefPane /System/Library/PreferencePanes**
 
-Step 5:Open the terminal type the command sudo kextcache -i/
+Step 5:Open the terminal type the command **sudo kextcache -i/**
 
 Step 6 :Restart 
 
