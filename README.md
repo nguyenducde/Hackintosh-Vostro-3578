@@ -3,7 +3,7 @@ Fix TrackPad not found
 
 Step 1:Open the terminal and type the command **sudo mount -uw /** then enter the password.
 
-Step 2:Dowload install trackpad https://izicloud-my.sharepoint.com/:f:/p/ducde678/Esh87zyUm39BjwVfdtpXhLcBJoDKyVtbXu9BM5sNVTef-g?e=9lil15
+Step 2:Dowload install trackpad https://izicloud-my.sharepoint.com/:f:/p/ducde678/Esh87zyUm39BjwVfdtpXhLcBJoDKyVtbXu9BM5sNVTef-g?e=OT6IKY
 
 Step 3:Click install.sh in file Install TrackPad
 
