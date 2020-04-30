@@ -14,7 +14,9 @@ Step 5:Open the terminal type the command sudo kextcache -i/
 
 Step 6 :Restart 
 
-
-<img src="https://i.imgur.com/me24p6k.png"> 
 <img src="https://i.imgur.com/id4JsRJ.png">
+<img src="https://i.imgur.com/gBT1V1i.png"> 
+<img src="https://i.imgur.com/QBAS2LX.png">
+
+
 
