@@ -7,6 +7,7 @@
 | Wireless |AC 3165 | 
 | Graphics card| UHD 620&&Radeon 520| 
 | Sound card| ALC 236| 
+| Ram| 8gb bus 2400 ddr4| 
 
 
 
