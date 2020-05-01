@@ -6,6 +6,7 @@
 | CPU | I7-8550U| 
 | Wireless |AC 3165 | 
 | Graphics card| UHD 620&&Radeon 520| 
+| Sound card| ALC 236| 
 
 
 
