@@ -1,11 +1,16 @@
 # Hackintosh-Vostro-3578 EFI
-##Configuration
-| Cột 1 Hàng 1 | 
+##Configuration Laptop
+| Device | Name|
 |--------------|
-| Hàng 2 | 2 x 1 | 
-| Hàng 3 | 3 x 1 | 
-| Hàng 4 | 4 x 1 | 
-Fix TrackPad not found 
+| CPU | I7-8550U| 
+| Wireless |AC 3165 | 
+| Graphics card| UHD 620&&Radeon 520| 
+
+Not working:
+Wireless, Radeon 520
+
+
+###Fix TrackPad not found 
 
 Step 1:Open the terminal and type the command **sudo mount -uw /** then enter the password.
 
